@@ -1,0 +1,75 @@
+{
+  "name": "styleguide",
+  "displayName": "careflow",
+  "description": "CareFlow VS Code Extension",
+  "publisher": "arun-r",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./out/extension.bundle.js",
+  "contributes": {
+    "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "careflow",
+          "title": "CareFlow",
+          "icon": "resources/icon.svg"
+        }
+      ]
+    },
+    "views": {
+      "careflow": [
+        {
+          "id": "styleGuide",
+          "name": "Style Guide"
+        }
+      ]
+    },
+    "snippets": [
+      {
+        "language": "html",
+        "path": "src/snippets/background.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "src/snippets/colors.code-snippets"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "webpack",
+    "compile": "webpack",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src --ext ts",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/node": "20.x",
+    "@types/node-fetch": "^2.6.11",
+    "@types/vscode": "^1.91.0",
+    "@typescript-eslint/eslint-plugin": "^7.14.1",
+    "@typescript-eslint/parser": "^7.11.0",
+    "@vscode/test-cli": "^0.0.9",
+    "@vscode/test-electron": "^2.4.0",
+    "eslint": "^8.57.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.4.5",
+    "webpack": "^5.93.0",
+    "webpack-bundle-analyzer": "^4.10.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "axios": "^1.7.3",
+    "node-fetch": "^2.7.0"
+  },
+  "author": {
+    "name": "Arun R",
+    "email": "arunr@carestack.com"
+  }
+}

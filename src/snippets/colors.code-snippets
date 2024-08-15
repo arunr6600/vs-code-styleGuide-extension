@@ -1,0 +1,422 @@
+{
+    "color-interactive-100": {
+        "prefix": "cfu-color-interactive-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-interactive-100"]
+    },
+    "color-interactive-80": {
+        "prefix": "cfu-color-interactive-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-interactive-80"]
+    },
+    "color-interactive-60": {
+        "prefix": "cfu-color-interactive-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-interactive-60"]
+    },
+    "color-interactive-40": {
+        "prefix": "cfu-color-interactive-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-interactive-40"]
+    },
+    "color-interactive-20": {
+        "prefix": "cfu-color-interactive-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-interactive-20"]
+    },
+    "color-interactive-10": {
+        "prefix": "cfu-color-interactive-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-interactive-10"]
+    },
+    "color-interactive-5": {
+        "prefix": "cfu-color-interactive-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-interactive-5"]
+    },
+    "color-grayscale-100": {
+        "prefix": "cfu-color-grayscale-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-grayscale-100"]
+    },
+    "color-grayscale-80": {
+        "prefix": "cfu-color-grayscale-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-grayscale-80"]
+    },
+    "color-grayscale-60": {
+        "prefix": "cfu-color-grayscale-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-grayscale-60"]
+    },
+    "color-grayscale-40": {
+        "prefix": "cfu-color-grayscale-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-grayscale-40"]
+    },
+    "color-grayscale-20": {
+        "prefix": "cfu-color-grayscale-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-grayscale-20"]
+    },
+    "color-grayscale-10": {
+        "prefix": "cfu-color-grayscale-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-grayscale-10"]
+    },
+    "color-grayscale-5": {
+        "prefix": "cfu-color-grayscale-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-grayscale-5"]
+    },
+    "color-indicator-red-100": {
+        "prefix": "cfu-color-indicator-red-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-red-100"]
+    },
+    "color-indicator-red-80": {
+        "prefix": "cfu-color-indicator-red-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-red-80"]
+    },
+    "color-indicator-red-60": {
+        "prefix": "cfu-color-indicator-red-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-red-60"]
+    },
+    "color-indicator-red-40": {
+        "prefix": "cfu-color-indicator-red-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-red-40"]
+    },
+    "color-indicator-red-20": {
+        "prefix": "cfu-color-indicator-red-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-red-20"]
+    },
+    "color-indicator-red-10": {
+        "prefix": "cfu-color-indicator-red-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-red-10"]
+    },
+    "color-indicator-red-5": {
+        "prefix": "cfu-color-indicator-red-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-red-5"]
+    },
+    "color-indicator-orange-100": {
+        "prefix": "cfu-color-indicator-orange-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-orange-100"]
+    },
+    "color-indicator-orange-80": {
+        "prefix": "cfu-color-indicator-orange-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-orange-80"]
+    },
+    "color-indicator-orange-60": {
+        "prefix": "cfu-color-indicator-orange-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-orange-60"]
+    },
+    "color-indicator-orange-40": {
+        "prefix": "cfu-color-indicator-orange-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-orange-40"]
+    },
+    "color-indicator-orange-20": {
+        "prefix": "cfu-color-indicator-orange-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-orange-20"]
+    },
+    "color-indicator-orange-10": {
+        "prefix": "cfu-color-indicator-orange-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-orange-10"]
+    },
+    "color-indicator-orange-5": {
+        "prefix": "cfu-color-indicator-orange-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-orange-5"]
+    },
+    "color-indicator-green-100": {
+        "prefix": "cfu-color-indicator-green-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-green-100"]
+    },
+    "color-indicator-green-80": {
+        "prefix": "cfu-color-indicator-green-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-green-80"]
+    },
+    "color-indicator-green-60": {
+        "prefix": "cfu-color-indicator-green-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-green-60"]
+    },
+    "color-indicator-green-40": {
+        "prefix": "cfu-color-indicator-green-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-green-40"]
+    },
+    "color-indicator-green-20": {
+        "prefix": "cfu-color-indicator-green-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-green-20"]
+    },
+    "color-indicator-green-10": {
+        "prefix": "cfu-color-indicator-green-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-green-10"]
+    },
+    "color-indicator-green-5": {
+        "prefix": "cfu-color-indicator-green-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-indicator-green-5"]
+    },
+    "color-accent-brown-100": {
+        "prefix": "cfu-color-accent-brown-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-brown-100"]
+    },
+    "color-accent-brown-80": {
+        "prefix": "cfu-color-accent-brown-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-brown-80"]
+    },
+    "color-accent-brown-60": {
+        "prefix": "cfu-color-accent-brown-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-brown-60"]
+    },
+    "color-accent-brown-40": {
+        "prefix": "cfu-color-accent-brown-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-brown-40"]
+    },
+    "color-accent-brown-20": {
+        "prefix": "cfu-color-accent-brown-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-brown-20"]
+    },
+    "color-accent-brown-10": {
+        "prefix": "cfu-color-accent-brown-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-brown-10"]
+    },
+    "color-accent-brown-5": {
+        "prefix": "cfu-color-accent-brown-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-brown-5"]
+    },
+    "color-accent-gold-100": {
+        "prefix": "cfu-color-accent-gold-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-gold-100"]
+    },
+    "color-accent-gold-80": {
+        "prefix": "cfu-color-accent-gold-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-gold-80"]
+    },
+    "color-accent-gold-60": {
+        "prefix": "cfu-color-accent-gold-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-gold-60"]
+    },
+    "color-accent-gold-40": {
+        "prefix": "cfu-color-accent-gold-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-gold-40"]
+    },
+    "color-accent-gold-20": {
+        "prefix": "cfu-color-accent-gold-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-gold-20"]
+    },
+    "color-accent-gold-10": {
+        "prefix": "cfu-color-accent-gold-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-gold-10"]
+    },
+    "color-accent-gold-5": {
+        "prefix": "cfu-color-accent-gold-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-gold-5"]
+    },
+    "color-accent-olive-100": {
+        "prefix": "cfu-color-accent-olive-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-olive-100"]
+    },
+    "color-accent-olive-80": {
+        "prefix": "cfu-color-accent-olive-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-olive-80"]
+    },
+    "color-accent-olive-60": {
+        "prefix": "cfu-color-accent-olive-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-olive-60"]
+    },
+    "color-accent-olive-40": {
+        "prefix": "cfu-color-accent-olive-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-olive-40"]
+    },
+    "color-accent-olive-20": {
+        "prefix": "cfu-color-accent-olive-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-olive-20"]
+    },
+    "color-accent-olive-10": {
+        "prefix": "cfu-color-accent-olive-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-olive-10"]
+    },
+    "color-accent-olive-5": {
+        "prefix": "cfu-color-accent-olive-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-olive-5"]
+    },
+    "color-accent-turquoise-100": {
+        "prefix": "cfu-color-accent-turquoise-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-turquoise-100"]
+    },
+    "color-accent-turquoise-80": {
+        "prefix": "cfu-color-accent-turquoise-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-turquoise-80"]
+    },
+    "color-accent-turquoise-60": {
+        "prefix": "cfu-color-accent-turquoise-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-turquoise-60"]
+    },
+    "color-accent-turquoise-40": {
+        "prefix": "cfu-color-accent-turquoise-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-turquoise-40"]
+    },
+    "color-accent-turquoise-20": {
+        "prefix": "cfu-color-accent-turquoise-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-turquoise-20"]
+    },
+    "color-accent-turquoise-10": {
+        "prefix": "cfu-color-accent-turquoise-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-turquoise-10"]
+    },
+    "color-accent-turquoise-5": {
+        "prefix": "cfu-color-accent-turquoise-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-turquoise-5"]
+    },
+    "color-accent-blue-100": {
+        "prefix": "cfu-color-accent-blue-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-blue-100"]
+    },
+    "color-accent-blue-80": {
+        "prefix": "cfu-color-accent-blue-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-blue-80"]
+    },
+    "color-accent-blue-60": {
+        "prefix": "cfu-color-accent-blue-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-blue-60"]
+    },
+    "color-accent-blue-40": {
+        "prefix": "cfu-color-accent-blue-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-blue-40"]
+    },
+    "color-accent-blue-20": {
+        "prefix": "cfu-color-accent-blue-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-blue-20"]
+    },
+    "color-accent-blue-10": {
+        "prefix": "cfu-color-accent-blue-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-blue-10"]
+    },
+    "color-accent-blue-5": {
+        "prefix": "cfu-color-accent-blue-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-blue-5"]
+    },
+    "color-accent-purple-100": {
+        "prefix": "cfu-color-accent-purple-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-purple-100"]
+    },
+    "color-accent-purple-80": {
+        "prefix": "cfu-color-accent-purple-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-purple-80"]
+    },
+    "color-accent-purple-60": {
+        "prefix": "cfu-color-accent-purple-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-purple-60"]
+    },
+    "color-accent-purple-40": {
+        "prefix": "cfu-color-accent-purple-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-purple-40"]
+    },
+    "color-accent-purple-20": {
+        "prefix": "cfu-color-accent-purple-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-purple-20"]
+    },
+    "color-accent-purple-10": {
+        "prefix": "cfu-color-accent-purple-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-purple-10"]
+    },
+    "color-accent-purple-5": {
+        "prefix": "cfu-color-accent-purple-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-purple-5"]
+    },
+    "color-accent-pink-100": {
+        "prefix": "cfu-color-accent-pink-100",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-pink-100"]
+    },
+    "color-accent-pink-80": {
+        "prefix": "cfu-color-accent-pink-80",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-pink-80"]
+    },
+    "color-accent-pink-60": {
+        "prefix": "cfu-color-accent-pink-60",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-pink-60"]
+    },
+    "color-accent-pink-40": {
+        "prefix": "cfu-color-accent-pink-40",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-pink-40"]
+    },
+    "color-accent-pink-20": {
+        "prefix": "cfu-color-accent-pink-20",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-pink-20"]
+    },
+    "color-accent-pink-10": {
+        "prefix": "cfu-color-accent-pink-10",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-pink-10"]
+    },
+    "color-accent-pink-5": {
+        "prefix": "cfu-color-accent-pink-5",
+        "description": "Color Palette",
+        "body": ["cfu-color-accent-pink-5"]
+    }
+}

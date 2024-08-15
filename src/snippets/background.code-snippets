@@ -1,0 +1,402 @@
+{
+    "background-interactive-100": {
+        "prefix": "cfu-background-interactive-100",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-interactive-100"]
+    },
+    "background-interactive-80": {
+        "prefix": "cfu-background-interactive-80",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-interactive-80"]
+    },
+    "background-interactive-60": {
+        "prefix": "cfu-background-interactive-60",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-interactive-60"]
+    },
+    "background-interactive-40": {
+        "prefix": "cfu-background-interactive-40",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-interactive-40"]
+    },
+    "background-interactive-20": {
+        "prefix": "cfu-background-interactive-20",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-interactive-20"]
+    },
+    "background-interactive-10": {
+        "prefix": "cfu-background-interactive-10",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-interactive-10"]
+    },
+    "background-interactive-5": {
+        "prefix": "cfu-background-interactive-5",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-interactive-5"]
+    },
+    "background-grayscale-100": {
+        "prefix": "cfu-background-grayscale-100",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-grayscale-100"]
+    },
+    "background-grayscale-80": {
+        "prefix": "cfu-background-grayscale-80",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-grayscale-80"]
+    },
+    "background-grayscale-60": {
+        "prefix": "cfu-background-grayscale-60",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-grayscale-60"]
+    },
+    "background-grayscale-40": {
+        "prefix": "cfu-background-grayscale-40",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-grayscale-40"]
+    },
+    "background-grayscale-20": {
+        "prefix": "cfu-background-grayscale-20",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-grayscale-20"]
+    },
+    "background-grayscale-10": {
+        "prefix": "cfu-background-grayscale-10",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-grayscale-10"]
+    },
+    "background-grayscale-5": {
+        "prefix": "cfu-background-grayscale-5",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-grayscale-5"]
+    },
+    "background-indicator-red-100": {
+        "prefix": "cfu-background-indicator-red-100",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-red-100"]
+    },
+    "background-indicator-red-80": {
+        "prefix": "cfu-background-indicator-red-80",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-red-80"]
+    },
+    "background-indicator-red-60": {
+        "prefix": "cfu-background-indicator-red-60",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-red-60"]
+    },
+    "background-indicator-red-40": {
+        "prefix": "cfu-background-indicator-red-40",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-red-40"]
+    },
+    "background-indicator-red-20": {
+        "prefix": "cfu-background-indicator-red-20",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-red-20"]
+    },
+    "background-indicator-red-10": {
+        "prefix": "cfu-background-indicator-red-10",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-red-10"]
+    },
+    "background-indicator-red-5": {
+        "prefix": "cfu-background-indicator-red-5",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-red-5"]
+    },
+    "background-indicator-orange-100": {
+        "prefix": "cfu-background-indicator-orange-100",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-orange-100"]
+    },
+    "background-indicator-orange-80": {
+        "prefix": "cfu-background-indicator-orange-80",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-orange-80"]
+    },
+    "background-indicator-orange-60": {
+        "prefix": "cfu-background-indicator-orange-60",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-orange-60"]
+    },
+    "background-indicator-orange-40": {
+        "prefix": "cfu-background-indicator-orange-40",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-orange-40"]
+    },
+    "background-indicator-orange-20": {
+        "prefix": "cfu-background-indicator-orange-20",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-orange-20"]
+    },
+    "background-indicator-orange-10": {
+        "prefix": "cfu-background-indicator-orange-10",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-orange-10"]
+    },
+    "background-indicator-orange-5": {
+        "prefix": "cfu-background-indicator-orange-5",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-orange-5"]
+    },
+    "background-indicator-green-100": {
+        "prefix": "cfu-background-indicator-green-100",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-green-100"]
+    },
+    "background-indicator-green-80": {
+        "prefix": "cfu-background-indicator-green-80",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-green-80"]
+    },
+    "background-indicator-green-60": {
+        "prefix": "cfu-background-indicator-green-60",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-green-60"]
+    },
+    "background-indicator-green-40": {
+        "prefix": "cfu-background-indicator-green-40",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-green-40"]
+    },
+    "background-indicator-green-20": {
+        "prefix": "cfu-background-indicator-green-20",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-green-20"]
+    },
+    "background-indicator-green-10": {
+        "prefix": "cfu-background-indicator-green-10",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-green-10"]
+    },
+    "background-indicator-green-5": {
+        "prefix": "cfu-background-indicator-green-5",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-indicator-green-5"]
+    },
+    "background-accent-brown-100": {
+        "prefix": "cfu-background-accent-brown-100",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-brown-100"]
+    },
+    "background-accent-brown-80": {
+        "prefix": "cfu-background-accent-brown-80",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-brown-80"]
+    },
+    "background-accent-brown-60": {
+        "prefix": "cfu-background-accent-brown-60",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-brown-60"]
+    },
+    "background-accent-brown-40": {
+        "prefix": "cfu-background-accent-brown-40",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-brown-40"]
+    },
+    "background-accent-brown-20": {
+        "prefix": "cfu-background-accent-brown-20",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-brown-20"]
+    },
+    "background-accent-brown-10": {
+        "prefix": "cfu-background-accent-brown-10",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-brown-10"]
+    },
+    "background-accent-brown-5": {
+        "prefix": "cfu-background-accent-brown-5",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-brown-5"]
+    },
+    "background-accent-gold-100": {
+        "prefix": "cfu-background-accent-gold-100",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-gold-100"]
+    },
+    "background-accent-gold-80": {
+        "prefix": "cfu-background-accent-gold-80",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-gold-80"]
+    },
+    "background-accent-gold-60": {
+        "prefix": "cfu-background-accent-gold-60",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-gold-60"]
+    },
+    "background-accent-gold-40": {
+        "prefix": "cfu-background-accent-gold-40",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-gold-40"]
+    },
+    "background-accent-gold-20": {
+        "prefix": "cfu-background-accent-gold-20",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-gold-20"]
+    },
+    "background-accent-gold-10": {
+        "prefix": "cfu-background-accent-gold-10",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-gold-10"]
+    },
+    "background-accent-gold-5": {
+        "prefix": "cfu-background-accent-gold-5",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-gold-5"]
+    },
+    "background-accent-turquoise-100": {
+        "prefix": "cfu-background-accent-turquoise-100",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-turquoise-100"]
+    },
+    "background-accent-turquoise-80": {
+        "prefix": "cfu-background-accent-turquoise-80",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-turquoise-80"]
+    },
+    "background-accent-turquoise-60": {
+        "prefix": "cfu-background-accent-turquoise-60",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-turquoise-60"]
+    },
+    "background-accent-turquoise-40": {
+        "prefix": "cfu-background-accent-turquoise-40",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-turquoise-40"]
+    },
+    "background-accent-turquoise-20": {
+        "prefix": "cfu-background-accent-turquoise-20",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-turquoise-20"]
+    },
+    "background-accent-turquoise-10": {
+        "prefix": "cfu-background-accent-turquoise-10",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-turquoise-10"]
+    },
+    "background-accent-turquoise-5": {
+        "prefix": "cfu-background-accent-turquoise-5",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-turquoise-5"]
+    },
+    "background-accent-blue-100": {
+        "prefix": "cfu-background-accent-blue-100",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-blue-100"]
+    },
+    "background-accent-blue-80": {
+        "prefix": "cfu-background-accent-blue-80",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-blue-80"]
+    },
+    "background-accent-blue-60": {
+        "prefix": "cfu-background-accent-blue-60",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-blue-60"]
+    },
+    "background-accent-blue-40": {
+        "prefix": "cfu-background-accent-blue-40",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-blue-40"]
+    },
+    "background-accent-blue-20": {
+        "prefix": "cfu-background-accent-blue-20",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-blue-20"]
+    },
+    "background-accent-blue-10": {
+        "prefix": "cfu-background-accent-blue-10",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-blue-10"]
+    },
+    "background-accent-blue-5": {
+        "prefix": "cfu-background-accent-blue-5",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-blue-5"]
+    },
+    "background-accent-purple-100": {
+        "prefix": "cfu-background-accent-purple-100",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-purple-100"]
+    },
+    "background-accent-purple-80": {
+        "prefix": "cfu-background-accent-purple-80",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-purple-80"]
+    },
+    "background-accent-purple-60": {
+        "prefix": "cfu-background-accent-purple-60",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-purple-60"]
+    },
+    "background-accent-purple-40": {
+        "prefix": "cfu-background-accent-purple-40",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-purple-40"]
+    },
+    "background-accent-purple-20": {
+        "prefix": "cfu-background-accent-purple-20",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-purple-20"]
+    },
+    "background-accent-purple-10": {
+        "prefix": "cfu-background-accent-purple-10",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-purple-10"]
+    },
+    "background-accent-purple-5": {
+        "prefix": "cfu-background-accent-purple-5",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-purple-5"]
+    },
+    "background-accent-pink-100": {
+        "prefix": "cfu-background-accent-pink-100",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-pink-100"]
+    },
+    "background-accent-pink-80": {
+        "prefix": "cfu-background-accent-pink-80",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-pink-80"]
+    },
+    "background-accent-pink-60": {
+        "prefix": "cfu-background-accent-pink-60",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-pink-60"]
+    },
+    "background-accent-pink-40": {
+        "prefix": "cfu-background-accent-pink-40",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-pink-40"]
+    },
+    "background-accent-pink-20": {
+        "prefix": "cfu-background-accent-pink-20",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-pink-20"]
+    },
+    "background-accent-pink-10": {
+        "prefix": "cfu-background-accent-pink-10",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-pink-10"]
+    },
+    "background-accent-pink-5": {
+        "prefix": "cfu-background-accent-pink-5",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-accent-pink-5"]
+    },
+    "background-white": {
+        "prefix": "cfu-background-white",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-white"]
+    },
+    "background-gradient": {
+        "prefix": "cfu-background-gradient",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-gradient"]
+    },
+    "background-gradient-vertical": {
+        "prefix": "cfu-background-gradient-vertical",
+        "description": "Careflow background Color Palette",
+        "body": ["cfu-background-gradient-vertical"]
+    }
+}
